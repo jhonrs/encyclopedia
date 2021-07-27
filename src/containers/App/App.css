@@ -1,0 +1,19 @@
+body,*{
+    box-sizing: border-box;
+    border: 0px;
+    margin: 0px;
+}
+.navBar{
+width: auto;
+height: 40px;
+background-color: black;
+border: 0px;
+text-align: end;
+}
+
+.nav__options{
+
+padding-top: 10px;
+margin-right: 50px;
+color: blanchedalmond;
+}

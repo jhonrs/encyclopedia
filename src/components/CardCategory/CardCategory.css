@@ -1,0 +1,13 @@
+.cardCategory__container{
+    width: 330px;
+    height: 240px;
+    border-radius: 6px;
+    background-color: blue;
+    align-items: center;
+    margin: 10px;
+}
+
+.cardCategory__name{
+    
+  text-align: center;
+}
